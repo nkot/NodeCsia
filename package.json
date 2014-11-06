@@ -1,0 +1,10 @@
+{
+  "name": "NodeCsia",
+  "version": "0.0.0",
+  "description": "NodeCsia",
+  "main": "server.js",
+  "author": {
+    "name": "nko",
+    "email": ""
+  }
+}
